@@ -1,2 +1,8 @@
 # SkipList
-Implementation for skiplist (Class assignment)
+#compile
+
+javac /autograder/submission/yourfilename.java
+
+#run
+
+java /autograder/submission/yourfilename
